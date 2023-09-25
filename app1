@@ -1,0 +1,4 @@
+#!/bin/bash
+read -p "enter your firstname:"
+read -p "enter your lastname:"
+echo "Welcome to etech $firstname $lastname"
